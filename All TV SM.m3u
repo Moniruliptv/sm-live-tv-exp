@@ -1,1 +1,9 @@
+#EXTM3U
 
+#EXTINF:-1tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg"group-title="Sports",T Sports HD 
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+
+#EXTINF:-1tvg-logo="https://i.postimg.cc/Nj5XJGD8/Ekushe.jpg"group-title="Bangladesh",Ekushe ETV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1tvg-logo="LogoLink"group-title="GropeName",ChannelName m3u8link
