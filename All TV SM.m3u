@@ -1157,11 +1157,6 @@ https://dkm.dlolcast.com:8099/hls/viaplaysp2.m3u8?md6=3UR75JwvnyVl2kvGg4Np2g&exp
 
 
 
-
-
-
-
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="Toffee",Discovery
 #EXTVLCOPT:http-cookie="Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1754938034:KeyName=prod_linear:Signature=QlAQDEgWRj_9TwIQ33FfT51vjBmyn3BfouqUvYazW4j44fDvtJtPzd1zL8iqt1sWQXCiy5YlvLCwiyUgnV_rAw"
 https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8
@@ -1169,3 +1164,12 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony PIX HD" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" group-title="Toffee",Sony PIX HD
 #EXTVLCOPT:http-cookie="Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1754938043:KeyName=prod_linear:Signature=HeTLiUFuNDDQB-ie2KzA3HgZLNOCwXKrpw_MJD7HxkRE4lyOFjyhPylktEq-9mFwAmHsLhZA2-NRK6pVnbl-Bw"
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonypix_hd/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="Toffee",Discovery
+https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1754938034:KeyName=prod_linear:Signature=QlAQDEgWRj_9TwIQ33FfT51vjBmyn3BfouqUvYazW4j44fDvtJtPzd1zL8iqt1sWQXCiy5YlvLCwiyUgnV_rAw
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel I" tvg-logo="https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261" group-title="Recorded TV",Channel I
+https://tvsen6.aynaott.com/channeli/index.m3u8?e=1753741196&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=c56d587b53ace5df98c0128c59b4eea6
