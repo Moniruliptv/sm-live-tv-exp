@@ -9,6 +9,9 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg"group-title="Sports",T Sports HD 
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="Toffee",Discovery
+https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1754938034:KeyName=prod_linear:Signature=QlAQDEgWRj_9TwIQ33FfT51vjBmyn3BfouqUvYazW4j44fDvtJtPzd1zL8iqt1sWQXCiy5YlvLCwiyUgnV_rAw
+
 
 
 
