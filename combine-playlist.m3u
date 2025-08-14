@@ -1,7 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1,All TV SM
-https://raw.githubusercontent.com/Moniruliptv/sm-live-tv-exp/refs/heads/main/All%20TV%20SM.m3u
-
-#EXTINF:-1,CKSM
-https://raw.githubusercontent.com/Moniruliptv/sm-live-tv-exp/refs/heads/main/Cksm.m3u
