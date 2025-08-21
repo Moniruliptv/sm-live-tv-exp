@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg"group-title="Sports",T Sports HD 
+#EXTINF:-1tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg"group-title="✅UPCOMING✅",T Sports HD 
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
-#EXTINF:-1tvg-logo="https://i.postimg.cc/3xXCW92d/Sony-Sports-3-HD.jpg"group-title="Sports",Sony Sports 4 HD
+#EXTINF:-1tvg-logo="https://i.postimg.cc/3xXCW92d/Sony-Sports-3-HD.jpg"group-title="✅UPCOMING✅",Sony Sports 4 HD
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 
-#EXTINF:-1tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg"group-title="Sports",T Sports HD 
+#EXTINF:-1tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg"group-title="✅UPCOMING✅",T Sports HD 
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
-#EXTINF:-1tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg"group-title="Sports",T Sports HD 
+#EXTINF:-1tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg"group-title="✅UPCOMING✅",T Sports HD 
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
 
@@ -1425,8 +1425,6 @@ https://cdn-tamp.vercel.app/Tesr25/AR/Live_Stream/Colors-FHD/tracks-v1a1/mono.m3
 
 
 
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dise3yr-066b0c7d-3187-4bf2-aa60-6fed1cee6c3d.png" group-title="DISCOVERY-ID-TRAVE", Sony BBC
-https://cdn-tamp.vercel.app/DISCOVERY-ID-TRAVEL/AR/Live_Stream/Sony_BBC_Earth-Hindi-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="DISCOVERY-ID-TRAVE", DISCOVERY HINDI
 https://cdn-tamp.vercel.app/DISCOVERY-ID-TRAVEL/AR/Live_Stream/Discovery-Hindi-HD/tracks-v1a1/mono.m3u8
