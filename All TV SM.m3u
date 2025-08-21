@@ -51,8 +51,14 @@ http://app.hughag.store/api/b45f637d05/playlist.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png",Zee Bangla VIP
 http://app.hughag.store/api/154d534216/playlist.m3u8
 
+#EXTINF:-1 group-title="Toffee" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/500px-Star_Jalsha_logo_2023.png",Star Jalsha
+https://tvsen5.aynaott.com/gUX8BJmNc2yF/index.m3u8
+
+#EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_146607001735536058.png",CNN VIP
+http://app.hughag.store/api/7b04dbc2ff/playlist.m3u8
+
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.png",Hum TV
-http://app.hughag.store/api/4518a8c92f/playlist.m3u8
+http://smart.bengaldigital.live/ZeeCinema/index.m3u8
 
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png",Sony Aat VIP
 http://app.hughag.store/api/b6a720edea/playlist.m3u8
