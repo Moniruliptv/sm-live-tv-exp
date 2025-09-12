@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg" group-title="✅UPCOMING", T Sports HD
-https://app.hughag.store/api/6b9c461155/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BVZXNbKR/asia-cup-logo.jpg" group-title="✅UPCOMING", Asia Sports
+http://103.73.107.122:3255/TSportsHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="✅UPCOMING", Sony Sports 4 HD
 https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8
