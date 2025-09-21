@@ -947,13 +947,6 @@ https://tvsen6.aynaott.com/ytv/index.m3u8?e=1753741246&u=9a031201-22d8-4f7e-9516
 
 
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="f6f1a6ed-4629-4010-b50d-13fa4dd9a575" tvg-name="   	 USA TV" tvg-logo="https://s3.aynaott.com/storage/4a8c4ef5769fdd11b640dcf5795221bd" group-title="Ayna",   	 USA TV
 https://tvsen6.aynaott.com/usa/index.m3u8?e=1753741263&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=8dc04f2ed0ec17d0423c7f6e60804fe3
 
@@ -990,50 +983,6 @@ https://tvsen6.aynaott.com/qurantv/index.m3u8?e=1753741266&u=9a031201-22d8-4f7e-
 #EXTINF:-1 tvg-id="feb40b2a-e10d-45d2-9e89-786f7d29ab2c" tvg-name="SUNNAH" tvg-logo="https://s3.aynaott.com/storage/965c0999ab09ebcf1c9f5803c8309460" group-title="Islami",SUNNAH
 https://tvsen6.aynaott.com/sunnahtv/index.m3u8?e=1753741266&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=d484c0524eb4b88016fb26b54ab43da5
 
-#EXTINF:-1 tvg-id="7b485392-fa4e-4756-a88c-0df044f835e6" tvg-name="Global Socil TV" tvg-logo="https://s3.aynaott.com/storage/713116c1c6ed94ad2d198026f6556d49" group-title="Movie",Global Socil TV
-https://tvsen6.aynaott.com/GlobalSocilTV/index.m3u8?e=1753741266&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=670d3b293d35fae8ddf7570cf0c028aa
-
-#EXTINF:-1 tvg-id="631ca0d6-474b-41ad-9ffc-24adc9931731" tvg-name="Manoranjan Movies" tvg-logo="https://s3.aynaott.com/storage/d17aa63ce5887296d1aa9b7f0388ddb4" group-title="Movie",Manoranjan Movies
-https://tvsen6.aynaott.com/ManoranjanMovies/index.m3u8?e=1753741267&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5e4fc7daf72aca30477132475b1f1160
-
-#EXTINF:-1 tvg-id="de45f5c5-ea1e-4135-b7e1-05394e7bf6b7" tvg-name="Movie live" tvg-logo="https://s3.aynaott.com/storage/8aae455f5e8f16af418a7589758addd3" group-title="Movie",Movie live
-https://tvsen7.aynaott.com/Movielive/index.m3u8?e=1753741267&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=377fa9bebc80e531e62248b54e52feba
-
-#EXTINF:-1 tvg-id="3c57401b-76ef-486e-8c7b-b3eff2f3e0e6" tvg-name="Movie Today" tvg-logo="https://s3.aynaott.com/storage/94bb9a6d5b3ff12c6e686c3401f67da6" group-title="Movie",Movie Today
-https://tvsen7.aynaott.com/MovieToday/index.m3u8?e=1753741267&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=d33afcae4992e2a53e53dd22aa74e652
-
-#EXTINF:-1 tvg-id="cca69f06-02d4-4b39-aad9-f24688b81d0d" tvg-name="Dhamaka Movies" tvg-logo="https://s3.aynaott.com/storage/ebe34fb8603a2550deb3c46193b03701" group-title="Movie",Dhamaka Movies
-https://tvsen7.aynaott.com/DhamakaMovies/index.m3u8?e=1753741267&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=101e437a4e97825bf58cbb1757cb8ad6
-
-#EXTINF:-1 tvg-id="fc4dfffa-ceff-404f-bf3b-1de7c6771ae5" tvg-name="RDS Social TV" tvg-logo="https://s3.aynaott.com/storage/a756b8c8a5f6cf65140f84ee26cfedf8" group-title="Music",RDS Social TV
-https://tvsen6.aynaott.com/RDSSocialTV/index.m3u8?e=1753741268&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=7432654ac70d7dcb18c69ebc82caafac
-
-#EXTINF:-1 tvg-id="525df3f4-ce22-4008-be5d-e25410fd7248" tvg-name="Dream Turk" tvg-logo="https://s3.aynaott.com/storage/21b1f8665ed080a8c4f4ec9014de22da" group-title="Music",Dream Turk
-https://tvsen6.aynaott.com/DreamTurk/index.m3u8?e=1753741268&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5e363d00da64af64183fa6cf1f40eca0
-
-#EXTINF:-1 tvg-id="9cf16121-07d4-48c1-9f36-14ee8b7e3f31" tvg-name="Ekin Turk" tvg-logo="https://s3.aynaott.com/storage/689a960bf33c0412ba1077752b632c3d" group-title="Music",Ekin Turk
-https://tvsen6.aynaott.com/EkinTurk/index.m3u8?e=1753741268&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=6ce0c0acdab3f48f061c520ee5baa040
-
-#EXTINF:-1 tvg-id="ce1252de-2d9b-4f2f-b601-2ee995a13371" tvg-name="NR1" tvg-logo="https://s3.aynaott.com/storage/77363ea6be4724682d2ba1223246916f" group-title="Music",NR1
-https://tvsen6.aynaott.com/NR1/index.m3u8?e=1753741269&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=205a130b2b99fd43a3deff61e6ffdc58
-
-#EXTINF:-1 tvg-id="bdf309a5-d732-45d8-989a-5ad5defd0224" tvg-name="Power Turk" tvg-logo="https://s3.aynaott.com/storage/4329cb48da7e29dff8be49eb4f80c4cd" group-title="Music",Power Turk
-https://tvsen6.aynaott.com/PowerTurkTV/index.m3u8?e=1753741269&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=9dbf00fffade98598b7e4b9cdbebc66c
-
-#EXTINF:-1 tvg-id="d87ba9db-e36f-4873-9444-f9b96ceb4a10" tvg-name="8XM Music HD" tvg-logo="https://s3.aynaott.com/storage/c38ec7f3fe9b59addb402995ed450246" group-title="Music",8XM Music HD
-https://tvsen7.aynaott.com/8XMMusicHD/index.m3u8?e=1753741269&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=9dc70f3d7f11b1bc64edab12818126e9
-
-#EXTINF:-1 tvg-id="93d08244-7eb4-4294-80b5-43030f41ca9f" tvg-name="9XM" tvg-logo="https://s3.aynaott.com/storage/d7c72d1fa7349c119a91fc51875b78d3" group-title="Music",9XM
-https://tvsen6.aynaott.com/9xm/index.m3u8?e=1753741269&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=80b8e03ba39f81eca701bad7bb68443c
-
-#EXTINF:-1 tvg-id="a0ff33aa-aee8-4fe3-a391-42bbb7cbacec" tvg-name="Mastiii Music" tvg-logo="https://s3.aynaott.com/storage/f18b40a9e01972f1737ab4c4a4bbbceb" group-title="Music",Mastiii Music
-https://tvsen6.aynaott.com/mastimusic/index.m3u8?e=1753741270&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=460519828e400a85a5b890fa7dd0fd72
-
-#EXTINF:-1 tvg-id="6a3da04b-dacc-441f-9549-71da39b5af07" tvg-name="Music India" tvg-logo="https://s3.aynaott.com/storage/9c45627c28eec88cac28473afd498f0e" group-title="Music",Music India
-https://tvsen6.aynaott.com/MusicIndia/index.m3u8?e=1753741270&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=6068f6a1106aa711294709a046675fa0
-
-#EXTINF:-1 tvg-id="67d12ffa-059f-4d79-a4e5-b36104d0af06" tvg-name="Dhoom Music Bangla" tvg-logo="https://s3.aynaott.com/storage/c58900c644d812c4bff8e6935829de6b" group-title="Music",Dhoom Music Bangla
-https://tvsen6.aynaott.com/dhoom/index.m3u8?e=1753741270&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=b891b96ca0aebcc033c8ccdaf5be124a
 
 #EXTINF:-1 tvg-id="f79543b0-41ab-433f-8bfc-53d6bba16399" tvg-name="Nat Geo TV" tvg-logo="https://s3.aynaott.com/storage/67a48ff99e888817617ed26665586776" group-title="Ayna",Nat Geo TV
 https://tvsen6.aynaott.com/natgeo/index.m3u8?e=1753741271&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=28fb5e55cb2dfae7a459262dc691f93b
@@ -1274,6 +1223,3 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/250px-DMAX_-_Logo_2016.svg.png" group-title="DISCOVERY-ID-TRAVE", DMAX TV
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Philips_PM5544.svg/768px-Philips_PM5544.svg.png" group-title="DISCOVERY-ID-TRAVE", Test TV-27
-http://starshare.org:8080/live/134134/13kjklj4134/5252.plylist.m3u8
