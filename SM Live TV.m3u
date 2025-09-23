@@ -1,20 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg" group-title="✅UPCOMING", T Sports HD
-https://NadimTV.short.gy/NadimTV/19162/Index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3xXCW92d/Sony-Sports-3-HD.jpg" group-title="✅UPCOMING", Sony Sports 4 HD
-https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/3m0S93h6/image-1.jpg" group-title="✅UPCOMING", T Sports HD 2
-https://xfireflix.fun/Ayna/match.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2&e=.m3u8
-
-
-
-
-
-
-
 #EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
 https://aynapubluc.vercel.app/api/stream/fc95d30e-5323-4c12-bb38-7a1e3f04acc2.m3u8
