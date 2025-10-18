@@ -8,10 +8,10 @@ https://aynapubluc.vercel.app/api/stream/fc95d30e-5323-4c12-bb38-7a1e3f04acc2.m3
 https://dtvxtream.com/sonyliv2/300255.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo" group-title="✅UPCOMING", BD VS AGN
-https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1759930936&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=28b7c2f8d68e5a207c05392888f3c625
+http://103.175.242.10:8080/tsports1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg" group-title="✅UPCOMING", T Sports HD 2
-http://103.73.107.122:3255/TSportsHD/index.m3u8
+http://103.175.242.10:8080/tsports1/index.m3u8
 
 Playlist ✅ TOFFEE ✅
 ✅ Owner = Monirul islam shakib
