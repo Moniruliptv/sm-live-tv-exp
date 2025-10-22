@@ -17,37 +17,6 @@ Playlist ✅ TOFFEE ✅
 ✅ Owner = Monirul islam shakib
 
 
-
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_146607001735536058.png",CNN VIP
-http://app.hughag.store/api/7b04dbc2ff/playlist.m3u8
-
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png",EuroSport HD
-http://app.hughag.store/api/ef22d71b0e/playlist.m3u8
-
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png",SONY SPORTS TEN 1 HD
-http://app.hughag.store/api/762cf859a8/playlist.m3u8
-
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png",SONY SPORTS TEN 2 HD
-http://app.hughag.store/api/45dc1e0f41/playlist.m3u8
-
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png",SONY SPORTS TEN 5 HD
-http://app.hughag.store/api/d74ec2f219/playlist.m3u8
-
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png",SONY TEN Cricket
-http://app.hughag.store/api/6b9c461155/playlist.m3u8
-
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",Cartoon Network HD
-http://app.hughag.store/api/68b0f4e13e/playlist.m3u8
-
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/27159/logo/240x240/mobile_logo_740957001679201029.png",Pogo
-http://app.hughag.store/api/d2586d604e/playlist.m3u8
-
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png",Discovery Kids
-http://app.hughag.store/api/aec911dc04/playlist.m3u8
-
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png",SONY YAY VIP
-http://app.hughag.store/api/b45f637d05/playlist.m3u8
-
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png",Zee Bangla VIP
 http://103.175.242.10:8080/zeebangla/index.m3u8
 
@@ -58,85 +27,132 @@ https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KpV0kwc6/images-11.jpg" group-title="Toffee", Colors Bangla
-
-https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8?hdnts=
-
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_146607001735536058.png",CNN VIP
-http://app.hughag.store/api/7b04dbc2ff/playlist.m3u8
-
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.png",Hum TV
-http://smart.bengaldigital.live/ZeeCinema/index.m3u8
-
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png",Sony Aat VIP
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png",Sony Aat VIP 2
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png",SONY ENTERTAINMENT TELEVISION
-http://app.hughag.store/api/bff81131e7/playlist.m3u8
+#EXTM3U
 
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png",SONY SAB VIP
-http://app.hughag.store/api/67380c0ffa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/OHjtBJkBcqxnFHJBUu4B/posters/8bb71f14-009c-4a63-aa5b-bdf4de2a8a04.png" group-title="Toffee 2", ICC Women's Cricket World Cup 2025
+https://bongoflixbd.top/test/live.php?id=match-asiacup&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/JS1AqZgBNnOkwJLWlwg-/posters/08617b27-2af1-4035-bcc3-d054ce42ca4b.png" group-title="Toffee 2", EPL channel 1
+https://bongoflixbd.top/test/live.php?id=match-1&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/HHnAgJkBcqxnFHJBabwO/posters/a2cabad4-ab24-4cd3-80ef-ffd74a016393.png" group-title="Toffee 2", BFL | Live 1
+https://bongoflixbd.top/test/live.php?id=match-11&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="Toffee 2", Discovery
+https://bongoflixbd.top/test/live.php?id=discovery_sd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp" group-title="Toffee 2", Sony MAX
+https://bongoflixbd.top/test/live.php?id=sony_max&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp" group-title="Toffee 2", Sony PIX HD
+https://bongoflixbd.top/test/live.php?id=sonypix_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ii5_-JQBv9knK3AHLDV3/posters/d961cc87-81b6-4b30-8414-8c0af2774818.webp" group-title="Toffee 2", Sony MAX 2
+https://bongoflixbd.top/test/live.php?id=sonymax_2&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/d60Vs5UBrjBfS2_RV_YV/posters/3cc5bf1e-5a42-415c-8e0e-7a17a1bb64da.png" group-title="Toffee 2", Toffee Sports
+https://bongoflixbd.top/test/live.php?id=sports_highlights&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp" group-title="Toffee 2", Sony MAX HD
+https://bongoflixbd.top/test/live.php?id=sony_max_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ns04LZYBtpl-Sbt7yKqD/posters/fef0cade-0663-4fc7-afb3-7a0b7469d045.png" group-title="Toffee 2", PSL Highlights
+https://bongoflixbd.top/test/live.php?id=psl_highlights&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp" group-title="Toffee 2", Sony YAY
+https://bongoflixbd.top/test/live.php?id=sonyyay&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/MC6C-JQBv9knK3AHUzUT/posters/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp" group-title="Toffee 2", Sony BBC Earth HD
+https://bongoflixbd.top/test/live.php?id=sonybbc_earth_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ES55-JQBv9knK3AHNDWC/posters/13411be9-62b9-4a99-a062-b6e91dfb1099.webp" group-title="Toffee 2", Sony SAB HD
+https://bongoflixbd.top/test/live.php?id=sonysab_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/DNMXs5UBm1RY_In7IJ72/posters/25b0cac5-f1e9-4541-a9cd-ab667f27c7b1.png" group-title="Toffee 2", Toffee Dramas
+https://bongoflixbd.top/test/live.php?id=toffee_drama&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/b60Ss5UBrjBfS2_RJPb8/posters/278fd2ab-3320-440c-9e8d-d702cea3dfa8.png" group-title="Toffee 2", Toffee Movies
+https://bongoflixbd.top/test/live.php?id=toffee_movie&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/7x0Jd5YBEef-9-uVv_Gy/posters/f630a176-73cc-48d7-94cf-69ba0d201b36.png" group-title="Toffee 2", Zee Anmol
+https://bongoflixbd.top/test/live.php?id=zee_anmol&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Pc3RD5YBtpl-Sbt7doxr/posters/d0f337ab-a7e6-4eed-bc7b-7d51fdc70a0f.png" group-title="Toffee 2", Zee Action
+https://bongoflixbd.top/test/live.php?id=zee_action&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/-C7MX5UBv9knK3AHdKOi/posters/1f43be2f-f8d9-4a0c-b0cb-971a18a6771c.png" group-title="Toffee 2", Zee Bangla Cinema
+https://bongoflixbd.top/test/live.php?id=zee_bangla_cinema&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/5y7HX5UBv9knK3AHs6Nk/posters/794fd415-1b0a-49b5-b91b-2f62ba6cd759.png" group-title="Toffee 2", Zee Cinema HD
+https://bongoflixbd.top/test/live.php?id=zee_cinema_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ltPQX5UBm1RY_In7b3F1/posters/f81d0cc9-c00e-4839-951a-b754e0e6c58f.png" group-title="Toffee 2", Zee TV HD
+https://bongoflixbd.top/test/live.php?id=zee_tv_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/U3QEd5YBcqxnFHJBpYzc/posters/3442d493-0c71-44b9-b12f-8e600d5eab91.png" group-title="Toffee 2", Zee Cafe
+https://bongoflixbd.top/test/live.php?id=zee_cafe_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/OnSlPJYBcqxnFHJB6lFX/posters/4818f95a-c64a-490f-b310-a49aec026d71.png" group-title="Toffee 2", Zee Bollywood
+https://bongoflixbd.top/test/live.php?id=zee_bollywood&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/DK8dd5YBrjBfS2_Ru22e/posters/a89a1e2e-677c-4a8a-9a66-dff5e0b921c8.png" group-title="Toffee 2", Zing
+https://bongoflixbd.top/test/live.php?id=zing_sd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/QMwWnZUBtpl-Sbt7S2sx/posters/f2e6acfd-0031-4ca4-b954-c014a0c99058.png" group-title="Toffee 2", & Pictures HD
+https://bongoflixbd.top/test/live.php?id=andpicture_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/5cwRnZUBtpl-Sbt7wWrN/posters/28335dab-169c-49b6-8d10-ef697f940307.png" group-title="Toffee 2", &TV HD
+https://bongoflixbd.top/test/live.php?id=and_picture_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/PnZefJcBcqxnFHJBoxca/posters/14699162-6ec8-4a94-a572-2795c6ddd329.png" group-title="Toffee 2", ICC Test Championship Highlights
+https://bongoflixbd.top/test/live.php?id=icc_wtc_final&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/kK2aX5UBrjBfS2_RBcKf/posters/16e111ed-2335-4391-9618-f840e4c4a6a2.png" group-title="Toffee 2", Zee Bangla
+https://bongoflixbd.top/test/live.php?id=zee_bangla&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png" group-title="Toffee 2", Sony Aath
+https://bongoflixbd.top/test/live.php?id=sonyaath&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_146607001735536058.png" group-title="Toffee 2", CNN VIP
+https://bongoflixbd.top/test/live.php?id=cnn&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png" group-title="Toffee 2", Euro Sport HD
+https://bongoflixbd.top/test/live.php?id=euro_sports_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Toffee 2", SONY SPORTS TEN 1 HD
+https://bongoflixbd.top/test/live.php?id=sony_sports_1_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Toffee 2", SONY SPORTS TEN 2 HD
+https://bongoflixbd.top/test/live.php?id=sony_sports_2_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Toffee 2", SONY SPORTS TEN 5 HD
+https://bongoflixbd.top/test/live.php?id=sony_sports_5_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png" group-title="Toffee 2", SONY TEN Cricket
+https://bongoflixbd.top/test/live.php?id=&e=ten_cricket.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png" group-title="Toffee 2", Cartoon Network HD
+https://bongoflixbd.top/test/live.php?id=cartoon_network_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png" group-title="Toffee 2", Cartoon Network
+https://bongoflixbd.top/test/live.php?id=cartoon_network_sd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/27159/logo/240x240/mobile_logo_740957001679201029.png" group-title="Toffee 2", Pogo
+https://bongoflixbd.top/test/live.php?id=pogo_sd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png" group-title="Toffee 2", Discovery Kids
+https://bongoflixbd.top/test/live.php?id=discovery_kids&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Toffee 2", Zee Bangla VIP
+https://bongoflixbd.top/test/live.php?id=zee_bangla&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.png" group-title="Toffee 2", Hum TV
+https://bongoflixbd.top/test/live.php?id=hum_tv&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/303947/logo/240x240/mobile_logo_203789001738235600.png" group-title="Toffee 2", Hum Masala
+https://bongoflixbd.top/test/live.php?id=hum_masala&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/303948/logo/240x240/mobile_logo_350939001738236112.png" group-title="Toffee 2", Hum Sitarey
+https://bongoflixbd.top/test/live.php?id=hum_sitaray&e=.
 
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",B4U Music VIP
-http://app.hughag.store/api/60fb3f6a8b/playlist.m3u8
 
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/644/logo/240x240/mobile_logo_649814001655891557.png",Zee TV HD
-http://app.hughag.store/api/526bde04a5/playlist.m3u8
 
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png",SONY MAX VIP
-http://app.hughag.store/api/9bcb965282/playlist.m3u8
 
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png",SONY PIX HD VIP
-http://app.hughag.store/api/0d6787eb3a/playlist.m3u8
 
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png",B4U Movies VIP
-http://app.hughag.store/api/33d888b898/playlist.m3u8
 
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png",SONY MAX 2 VIP
-http://app.hughag.store/api/a5d2c9a383/playlist.m3u8
 
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png",Zee Bangla Cinema VIP
-http://app.hughag.store/api/04cb8cb9a7/playlist.m3u8
 
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/7x0Jd5YBEef-9-uVv_Gy/posters/f630a176-73cc-48d7-94cf-69ba0d201b36.png",Zee Anmol
-http://app.hughag.store/api/cf342d11fc/playlist.m3u8
 
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png",Zee Cinema HD
-http://app.hughag.store/api/63785f090e/playlist.m3u8
 
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/U3QEd5YBcqxnFHJBpYzc/posters/3442d493-0c71-44b9-b12f-8e600d5eab91.png",Zee Cafe
-http://app.hughag.store/api/f914787389/playlist.m3u8
 
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png",TLC HD
-http://app.hughag.store/api/8ea645b228/playlist.m3u8
 
-#EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/359/logo/240x240/mobile_logo_835681001673175607.png",Animal Planet
-http://app.hughag.store/api/replace/playlist.m3u8
+
+
+
+
 
 
 
 ✅✅ FANCODE SPORTS LIVE ✅✅
 
 
-#EXTM3U
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh_2025_Old_match-card.jpg" group-title="Fancode-Sports", Bangladesh vs West Indies
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137701_english_hls_e2d3dbff1074833ta-di_h264/index.m3u8
 https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137701_english_hls_e2d3dbff1074833ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-vs-Afghanistan--old-match-card.jpg" group-title="Fancode-Cricket", Afghanistan vs Zimbabwe
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137371_english_hls_981046261519624ta-di_h264/index.m3u8
-https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137371_english_hls_981046261519624ta-di_h264/index.m3u8
+https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137371_english_hls_98106261519624ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136007_5647_MLC_BU_fc-Web.jpg" group-title="Fancode-Sports", Melbourne City vs Buriram United
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/136007_english_hls_d93bd6247135983ta-di_h264/index.m3u8
 https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/136007_english_hls_d93bd6247135983ta-di_h264/index.m3u8
-
-
-
-
 
 
 
